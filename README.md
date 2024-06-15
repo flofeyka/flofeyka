@@ -1,5 +1,9 @@
-<h3 align="center">Hi, I'm Danil Bashirov</h3>
-<h4 align="center">Full Stack developer</h4>
+<h1 align="center">Hi 👋, I'm Danil Bashirov</h1>
+<div align="center">
+  
+</div>
+
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [mindconnect](https://github.com/Nikita0708/mind-connect-front-end)
 
