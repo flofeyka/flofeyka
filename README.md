@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, I'm Danil Bashirov</h3>
+<h4 align="center">Full Stack developer</h4>
 
 - 🔭 I’m currently working on [mindconnect](https://github.com/Nikita0708/mind-connect-front-end)
 
