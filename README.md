@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 📫 How to reach me **danil.bashirov.08@gmail.com**
+- 📫 How to reach me **danilbashirov0@vk.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
