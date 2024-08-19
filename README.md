@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [mindconnect](https://github.com/Nikita0708/mind-connect-front-end)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS** and **Nest JS**
 
 - 📫 How to reach me **flofey@yandex.ru**
 
