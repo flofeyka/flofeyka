@@ -25,7 +25,7 @@
 
 ### Мои проекты
 
-| Проект       | Статус                                  | Тип        |
-|--------------|-----------------------------------------|------------|
-| Mind-Connect | In progress                             | Teamly     |
-| LinkApp      | In progress                             | Private    |                       
+| Project       | Status                                  | Type       |
+|---------------|-----------------------------------------|------------|
+| Mind-Connect  | In progress                             | Teamly     |
+| LinkApp       | In progress                             | Private    |                       
