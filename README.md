@@ -5,11 +5,11 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [mindconnect](https://github.com/Nikita0708/mind-connect-front-end)
+- 🔭 I’m currently working on [mindconnect](https://github.com/flofeyka/mindconnect-frontend.git)
 
 - 🌱 I’m currently learning **Next JS** and **Nest JS**
 
-- 📫 How to reach me **flofey@yandex.com**
+- 📫 How to reach me **danilbashirov0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
